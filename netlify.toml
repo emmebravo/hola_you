@@ -1,0 +1,4 @@
+# directory for serverless fcns
+
+[functions]
+  directory = "hms-functions/"
